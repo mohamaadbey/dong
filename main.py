@@ -35,5 +35,5 @@ def dong():
             amaliat = avg - main_list[nafar][nafar2]
             final_list.append(amaliat)
 
-    # print(main_list)
+    print(main_list)
 dong()
